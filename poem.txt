@@ -7,4 +7,5 @@ blue
 red
 green
 yellow
+pink
 these are the colors of the rainbow.
